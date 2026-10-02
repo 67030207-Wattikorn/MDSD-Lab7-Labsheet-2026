@@ -1005,9 +1005,12 @@ class ListingDraft {
 
 > ✅ **Checkpoint 6.1** ถ่ายภาพหน้าจอ Error ที่แอปแสดงเมื่อ Gemini ปฏิเสธคำขอ  จากนั้น**เปลี่ยน `_prompt` ใน `sell_item_page.dart` กลับเป็นเวอร์ชันที่ใช้งานจริงตามส่วนที่ 4** ก่อนส่งงาน ⚠️ ขั้นตอนนี้สำคัญมาก ถ้าลืมเปลี่ยนกลับ ฟีเจอร์หลักของแอปจะใช้งานไม่ได้เลย เพราะ Prompt ที่เหลือทิ้งไว้จะถูก Gemini บล็อกทุกครั้ง
 
-```text
 บันทึกผลลัพธ์ที่นี่
-```
+1.<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-10-03 เวลา 01 20 31" src="https://github.com/user-attachments/assets/e16a4aed-07c5-4457-908a-d3a976ede71a" />
+
+
+2.<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-10-03 เวลา 01 17 37" src="https://github.com/user-attachments/assets/896d0ef2-b690-4e94-961d-c5cb18887db4" />
+
 ---
 
 
